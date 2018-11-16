@@ -5,4 +5,4 @@ Two level of attention is applied both at sentence and word level. Natural langu
 Hence, we experimented by using Tree LSTMs instead of normal LSTMs. Batching is difficult with Tree LSTMs therefore we used SPINN algorithm (Stack Augmented Parser-Interpreter Neural Network).
 SPINN model helps in batching with Tree LSTM and provides computational Speed-up. THANOS performnace was comparable with HAN algorithm.
 
-![alt text](https://github.com/surbhardwaj/THANOS-Tree-Augmented-Hierarchical-Attention-Network-with-Operator-Reduce-Parsing-/)
+![alt text](https://github.com/surbhardwaj/THANOS-Tree-Augmented-Hierarchical-Attention-Network-with-Operator-Reduce-Parsing-/tree/master/images/THANOS.png)
