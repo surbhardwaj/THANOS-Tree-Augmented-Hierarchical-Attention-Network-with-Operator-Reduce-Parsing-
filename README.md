@@ -7,5 +7,6 @@ SPINN model helps in batching with Tree LSTM and provides computational Speed-up
 
 
 <p align="center">
-  <img src="https://github.com/surbhardwaj/THANOS-Tree-Augmented-Hierarchical-Attention-Network-with-Operator-Reduce-Parsing-/tree/master/images/THANOS.png" width="350" title="hover text">
+  <img src="https://github.com/surbhardwaj/THANOS-Tree-Augmented-Hierarchical-Attention-Network-with-Operator-Reduce-Parsing-/tree/master/images/THANOS.png" width="350" title="THANOS architecture">
+ <img src="https://github.com/surbhardwaj/THANOS-Tree-Augmented-Hierarchical-Attention-Network-with-Operator-Reduce-Parsing-/tree/master/images/THANOS.png" width="350" alt="accessibility text">
 </p>
