@@ -4,6 +4,7 @@ Here we use Tree LSTM to obtain the embeddings for each sentence. It has a hiera
 Two level of attention is applied both at sentence and word level. Natural language exhibits syntactic properties that would naturally combine words to phrases. 
 Hence, we experimented by using Tree LSTMs instead of normal LSTMs. Batching is difficult with Tree LSTMs therefore we used SPINN algorithm (Stack Augmented Parser-Interpreter Neural Network).
 SPINN model helps in batching with Tree LSTM and provides computational Speed-up. THANOS performnace was comparable with HAN algorithm.
+For data preprocessing, we used Stanford Core NLP library which create a binarized tree. 
 
 
 ![alt text](THANOS.png "THANOS Architecture")
