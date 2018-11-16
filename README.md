@@ -6,6 +6,4 @@ Hence, we experimented by using Tree LSTMs instead of normal LSTMs. Batching is 
 SPINN model helps in batching with Tree LSTM and provides computational Speed-up. THANOS performnace was comparable with HAN algorithm.
 
 
-<p align="center">
-  <img src="https://github.com/surbhardwaj/THANOS-Tree-Augmented-Hierarchical-Attention-Network-with-Operator-Reduce-Parsing-/tree/master/images/THANOS.png" width="350" title="THANOS architecture">
-</p>
+![ScreenShot](https://github.com/surbhardwaj/THANOS-Tree-Augmented-Hierarchical-Attention-Network-with-Operator-Reduce-Parsing-/tree/master/images/THANOS.png)
