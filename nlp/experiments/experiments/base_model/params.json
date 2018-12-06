@@ -1,0 +1,13 @@
+{
+    "learning_rate": 1e-3,
+    "batch_size": 64,
+    "num_epochs": 20,
+	"num_class" : 10,
+	"embed_dim" : 200,
+	"project_dim" : 400,
+	"hidden_dim" : 200,
+	"alpha" : 0.9,
+	"eps" : 1e-6,
+	"sent_gru" : 100,
+    "save_summary_steps": 50
+}

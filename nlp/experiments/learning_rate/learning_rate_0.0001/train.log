@@ -1,0 +1,25 @@
+2018-07-04 09:59:19,908 INFO Loading the datasets...
+2018-07-04 09:59:19,911 INFO - done.
+2018-07-04 09:59:19,937 INFO Starting training for 2 epoch(s)
+2018-07-04 09:59:19,937 INFO Epoch 1/2
+2018-07-04 10:04:22,681 INFO - Train metrics: accuracy: 0.312 ; loss: 2.063
+2018-07-04 10:05:12,351 INFO - Eval metrics : accuracy: 0.250 ; loss: 2.073
+2018-07-04 10:05:13,749 INFO - Found new best accuracy
+2018-07-04 10:05:13,764 INFO Epoch 2/2
+2018-07-04 10:10:46,858 INFO - Train metrics: accuracy: 0.312 ; loss: 2.020
+2018-07-04 10:11:39,278 INFO - Eval metrics : accuracy: 0.289 ; loss: 2.066
+2018-07-04 10:11:40,453 INFO - Found new best accuracy
+2018-07-06 17:22:57,987 INFO Loading the datasets...
+2018-07-06 17:22:58,021 INFO - done.
+2018-07-06 17:23:01,329 INFO Starting training for 2 epoch(s)
+2018-07-06 17:23:01,329 INFO Epoch 1/2
+2018-07-09 14:38:02,279 INFO Loading the datasets...
+2018-07-09 14:38:03,690 INFO - done.
+2018-07-09 14:38:07,682 INFO Starting training for 2 epoch(s)
+2018-07-09 14:38:07,682 INFO Epoch 1/2
+2018-07-12 21:43:18,434 INFO Loading the datasets...
+2018-07-12 21:43:23,224 INFO - done.
+2018-07-12 21:43:27,273 INFO Starting training for 2 epoch(s)
+2018-07-12 21:43:27,273 INFO Epoch 1/2
+2018-07-12 21:44:12,575 INFO - Train metrics: Train Metrics for Batch : 5 : Loss: 2.29260706902; Accuracy :0.15625
+2018-07-12 21:45:07,586 INFO - Train metrics: Train Metrics for Batch : 10 : Loss: 2.28567552567; Accuracy :0.1875
